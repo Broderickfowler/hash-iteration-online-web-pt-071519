@@ -1,4 +1,5 @@
 def select_winner(passengers)
-  passengers.each do |
+  passengers.each do |suite, name|
+    puts "#{suite}:"
 end
  
